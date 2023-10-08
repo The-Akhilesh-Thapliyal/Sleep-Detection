@@ -4,8 +4,7 @@
 
 
 <p align="center">
-<img src
-="http://drive.google.com/uc?export=view&id=1mVOSaMUpBxcKv_wRZcNLpraxfDfSu7RG">
+<img src="http://drive.google.com/uc?export=view&id=1mVOSaMUpBxcKv_wRZcNLpraxfDfSu7RG">
 </p>
 
 
@@ -76,7 +75,7 @@ The project's architecture is robust and scalable, allowing seamless integration
 
 ## Setup Steps
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/sleep-detection.git && cd sleep-detection`.
+1. **Clone the Repository:** `git clone https://github.com/The-Akhilesh-Thapliyal/sleep-detection.git && cd sleep-detection`.
 
 2. **Install Dependencies:** `pip install`.
 
