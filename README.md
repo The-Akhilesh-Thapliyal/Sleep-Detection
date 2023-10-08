@@ -83,7 +83,7 @@ The project's architecture is robust and scalable, allowing seamless integration
 
 4. **Obtain Pre-trained Models (Optional):** Download and place pre-trained model.
 
-5. **Execute the Jupyter Notebook:** Execute the script with `Sleep_Detection.ipynb` for training and testing the sleep detection model and execute `Sleep_Detection.py` for real-time sleep detection.
+5. **Execute the Jupyter Notebook:** Execute the script with `Sleep_Detection.ipynb` for training and testing the sleep detection model and execute `Real_Time_Sleep_Detection.py` for real-time sleep detection.
 
 
 
